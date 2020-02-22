@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/igorapolinario.github.io/precache-manifest.59c00f5ba57ded2c326a6401bfa66d4e.js"
+  "/igorapolinario.github.io/precache-manifest.ccabcb35650e867316f16c6c30b98f8a.js"
 );
 
 self.addEventListener('message', (event) => {
